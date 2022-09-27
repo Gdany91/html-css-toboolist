@@ -67,11 +67,17 @@
     margin-left: 10% ;
     }
     
-    /* nuovi */
-    .new{
-        
+    /* marcatori liste */
+    .green-check{
+        list-style-image: url(img/green-check.jpg);
     }
 
+    .x-mark{
+        list-style-image: url(img/x-mark.png);
+
+    }
+
+    /* span */
     .type-edit{
         font-size: 12px;
         background-color: cornflowerblue;
@@ -79,7 +85,7 @@
         padding: 0 5px;
     }
     
-    /* da fare oggi */
+    
     .type-goals{
         font-size: 12px;
         background-color: rgb(213, 92, 213);
@@ -100,7 +106,6 @@
     }
 
 
-    /* prossimi */
     .type-web{
         font-size: 12px;
         background-color: rgb(237, 100, 203);
