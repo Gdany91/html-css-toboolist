@@ -17,8 +17,8 @@
 /*  corpo dell'app  */
 
 .body-home{
-   background-color: rgb(150, 150, 150);
-    
+   background-color: rgb(222, 222, 222);
+
     
 }
 
@@ -27,9 +27,6 @@
    margin: auto ;
    background-color: white;
    border-radius: 5px;
-   
-   
- 
 }
 
 /* azioni possibili */
@@ -41,12 +38,25 @@
     margin-bottom: 8px;
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    border-bottom-color: grey;
+    border-bottom-color: rgb(222, 222, 222);
+    border-radius: 5px;
 
 
 }
 
-.button-1{}
+.button-1{
+    background-color:  rgb(145, 200, 241);
+    border-radius: 5px;
+    border:  0px;
+}
+
+.button-2{
+    background-color:  rgb(255, 255, 255);
+    border-radius: 5px;
+    color: rgb(222, 222, 222);
+    border-color: rgb(222, 222, 222);
+    padding: 0px 4px;
+}
 
 
 
@@ -59,7 +69,6 @@
     
     /* nuovi */
     .new{
-        
         
     }
 
