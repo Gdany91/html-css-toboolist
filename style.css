@@ -1,0 +1,57 @@
+/* generale */
+*{
+    box-sizing: border-box;
+}
+
+/* logo e intestazione */
+.logo-title{
+    padding: 0 1%;
+
+}
+.title{
+    display: inline-block;
+    vertical-align: 15px;
+
+}
+
+/*  corpo dell'app  */
+
+.body-home{
+   background-color: rgb(150, 150, 150);
+    
+    
+}
+
+.conteiner{
+   width: 75%;
+   margin: auto ;
+   background-color: white;
+   border-radius: 5px;
+   
+ 
+}
+
+/* azioni possibili */
+
+.actions{
+    padding-top: 1%;
+    padding-left: 10%;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: grey;
+
+
+}
+
+.button-1{}
+
+
+
+/* liste */
+    /* nuovi */
+    .new{
+        margin-top: 3%;
+        margin-left: 10% ;
+    }
